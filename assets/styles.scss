@@ -19,32 +19,36 @@ a:hover {
 
 .typeset h1 {
  color: #003366;
- font-size:2em;
+ font-size:2rem;
 }
 
 .typeset h2 {
  color: #003366;
- font-size:1.8em; 
+ font-size:1.8rem; 
 }
 
 .typeset h3 {
  color: #003366;
-  font-size:1.6em;
+  font-size:1.6rem;
 }
 
 .typeset h4 {
  color: #003366;
-  font-size:1.4em;
+  font-size:1.4rem;
 }
 
 .typeset h5 {
  color: #003366;
-  font-size:1.2em;
+  font-size:1.2rem;
 }
 
 .typeset h6 {
  color: #003366;
- font-size:1.0em;
+ font-size:1.0rem;
+}
+
+.typeset p {
+  line-height: 1.8rem;
 }
 
 .footer {
@@ -63,20 +67,20 @@ a:hover {
  background-image:linear-gradient(to bottom, transparent 50%, #fab700 50%);
 }
 h1 {
- font-size:2em;
+ font-size:2rem;
 }
 h2 {
- font-size:1.8em;
+ font-size:1.8rem;
 }
 h3 {
- font-size:1.6em;
+ font-size:1.6rem;
 }
 h4 {
- font-size:1.4em;
+ font-size:1.4rem;
 }
 h5 {
- font-size:1.2em;
+ font-size:1.2rem;
 }
 h6 {
- font-size:1.0em;
+ font-size:1.0rem;
 }
