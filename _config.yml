@@ -77,9 +77,9 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "HGNC and VGNC Blog" # Site name or title, also used in jekyll-seo-tag
 logo: "/images/blog_logo.png" # Site logo, also used in jekyll-seo-tag
-description: "test" # Site description and default description, also used in jekyll-seo-tag
+description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -103,11 +103,11 @@ navigation_footer:
   Created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  GitHub: https://github.com/daviddarnes
+  Twitter: https://twitter.com/genenames
+  #GitHub: https://github.com/
   link: https://www.genenames.org
   link: https://vertebrate.genenames.org 
-  RSS: /feed.xml
+  #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
