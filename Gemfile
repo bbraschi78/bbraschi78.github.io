@@ -9,4 +9,4 @@ gem "jekyll-redirect-from"
 gem "jekyll-default-layout"
 gem "jekyll-feed"
 gem "jemoji"
-gem 'jekyll-twitter-plugin'
+
