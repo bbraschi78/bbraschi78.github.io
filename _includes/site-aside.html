@@ -8,7 +8,13 @@
   {% elsif page.layout == "page" or page.layout == "home" or page.layout == "blog" %}
     <section class="section  section--description">
       <h3>Testing 2</h3>
-      <p>{{ site.description }}</p>
+      <p>{{ site.description }}
+	  
+	  <div class='jekyll-twitter-plugin' align="center">
+	      {% twitter https://twitter.com/genenames maxwidth=500 limit=5 %}
+	  </div>
+	  
+	  </p>
 	
       {% include nav-social.html %}
     </section>
