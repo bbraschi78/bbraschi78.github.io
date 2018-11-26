@@ -34,7 +34,7 @@ plugins:
 
 
 # 3. Gem settings
-paginate: 2 # jekyll-paginate > items per page
+paginate: 3 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -51,7 +51,7 @@ remote_theme: daviddarnes/alembic
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+excerpt_separator: <!-more-> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
