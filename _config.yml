@@ -90,9 +90,9 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Home: /
   About: /about/
-  Elements: /elements/
+  #Elements: /elements/
   #Blog: /blog/
-  Categories: /categories/
+  #Categories: /categories/
   Search: /search/
 
 
