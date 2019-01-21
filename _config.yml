@@ -104,7 +104,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/genenames
   #GitHub: https://github.com/
   link: https://www.genenames.org
-  link: https://vertebrate.genenames.org 
+  link2: https://vertebrate.genenames.org 
   #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
