@@ -34,7 +34,7 @@ plugins:
 
 
 # 3. Gem settings
-paginate: 3 # jekyll-paginate > items per page
+paginate: 5 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
@@ -51,15 +51,15 @@ remote_theme: daviddarnes/alembic
 sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
-excerpt_separator: <!-more-> # Marks end of excerpt in posts
+excerpt_separator: "........" # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Blog posts from the HGNC and VGNC # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+   # description: "Blog posts from the HGNC and VGNC" # The post list page content
     feature_image: "/images/wordcloud.png"
 
 # 6. Jekyll collections settings
@@ -78,6 +78,7 @@ logo: "/images/blog_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "" # Site description and default description, also used in jekyll-seo-tag
 url: "https://genenames.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
+excerpt_separator: "........"
 repo: "https://github.com/daviddarnes/alembic"
 email: "hgnc@genenames.org"
 disqus: "https://hgnc-and-vgnc-blog.disqus.com/embed.js" # Blog post comments, uncomment the option and set the site ID from your Disqus account
