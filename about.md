@@ -4,7 +4,7 @@ excerpt: "About the HGNC and the VGNC"
 feature_image: "/images/wordcloud.png"
 ---
 
-#About the HGNC
+##About the HGNC
 
 HGNC is responsible for approving unique symbols and names for human loci, including protein coding genes, ncRNA genes and pseudogenes, to allow unambiguous scientific communication.
 
@@ -13,7 +13,7 @@ For each known human gene we approve a gene name and symbol (short-form abbrevia
 
 We have already approved almost 33,000 symbols; the vast majority of these are for protein-coding genes, but also include symbols for pseudogenes, non-coding RNAs, phenotypes and genomic features (see HGNC Search). Individual new symbols are requested by scientists, journals (e.g. Genomics, Nature Genetics) and databases (e.g.Ensembl, Entrez Gene, MGI, RGD and OMIM), and groups of new symbols by those working on gene groups or specific regions of the genome. In all cases considerable efforts are made to use a symbol acceptable to workers in the field.
 
-#About the VGNC
+##About the VGNC
 
 The Vertebrate Gene Nomenclature Committee (VGNC) is an extension of the established HGNC (HUGO Gene Nomenclature Committee) project that names human genes. VGNC is responsible for assigning standardized names to genes in vertebrate species that currently lack a nomenclature committee. The VGNC also coordinates with the 6 existing vertebrate nomenclature committees, MGNC (mouse), RGNC (rat), CGNC (chicken), AGNC (Anole green lizard), XNC (Xenopus frog) and ZNC (zebrafish), to ensure genes are named in line with their human homologs.
 
