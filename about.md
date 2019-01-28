@@ -7,7 +7,7 @@ layout: page
 
 ## About the HGNC
 
-HGNC is responsible for approving unique symbols and names for human loci, including protein coding genes, ncRNA genes and pseudogenes, to allow unambiguous scientific communication.
+The HGNC is responsible for approving unique symbols and names for human loci, including protein coding genes, ncRNA genes and pseudogenes, to allow unambiguous scientific communication.
 
 Authority and Responsibilities
 For each known human gene we approve a gene name and symbol (short-form abbreviation). All approved symbols are stored in the HGNC database, <https://www.genenames.org>, a curated online repository of HGNC-approved gene nomenclature, gene groups and associated resources including links to genomic, proteomic and phenotypic information. Each symbol is unique and we ensure that each gene is only given one approved gene symbol. It is necessary to provide a unique symbol for each gene so that we and others can talk about them, and this also facilitates electronic data retrieval from publications and databases. In preference each symbol maintains parallel construction in different members of a gene family and can also be used in other species, especially the mouse.
